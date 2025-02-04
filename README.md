@@ -1,4 +1,4 @@
-# 🍕 Proyecto de Reserva para un GYM
+# 🏋️ Proyecto de Reserva para un GYM
 
 ## 📝 Descripción
 Aplicación web de un gym desarrollada con React, que ofrece una experiencia interactiva para poder reservar tu visita a la hora de matricularte.
