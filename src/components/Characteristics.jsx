@@ -1,5 +1,5 @@
 import React from 'react'
-import { Clock, CheckCircle, BarChart, ArrowRight, Users, ShowerHead } from 'lucide-react'
+import { CheckCircle, BarChart, ArrowRight, ShowerHead } from 'lucide-react'
 
 const características = [
     {

@@ -9,12 +9,6 @@ function DatosEnviados({ isOpen, onClose }) {
             document.body.style.overflow = 'hidden'
             setShowCheck(true)
             
-            // Crear múltiples confetis con diferentes emojis
-            const emojis = ['🎉', '✨', '🎊', '🌟']
-            const newConfetti = Array(20).fill().map((_, i) => ({
-                id: i,
-                emoji: emojis[Math.floor(Math.random() * emojis.length)]
-            }))
         } else {
             document.body.style.overflow = 'auto'
             setShowCheck(false)
